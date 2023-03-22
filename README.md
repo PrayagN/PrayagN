@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prayagn" target="blank"><img src="https://img.shields.io/twitter/follow/prayagn?logo=twitter&style=for-the-badge" alt="prayagn" /></a> </p>
 
-- 🔭 I’m currently working on **Netflix**
+- 🔭 I’m currently working on **Netflix Project**
 
 - 🌱 I’m currently learning **React**
 
