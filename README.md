@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)]
 
 <h1 align="center">Hi 👋, I'm Prayag N</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
