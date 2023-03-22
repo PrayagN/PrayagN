@@ -34,7 +34,7 @@
 <h3 align="left">Support:</h3>
 
 <div class='d-flex'>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=prayagn&show_icons=true&locale=en" alt="prayagn" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=prayagn&show_icons=true&locale=en" alt="prayagn" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayagn&show_icons=true&locale=en&layout=compact" alt="prayagn" /></p>
 </div>
