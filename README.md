@@ -34,8 +34,9 @@
 <!-- <h3 align="left">Support:</h3> -->
 
 <div class='d-flex'>
+ <h1><img class='float-right' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayagn&show_icons=true&locale=en&layout=compact" alt="prayagn" /></h1>
 <h1><img  src="https://github-readme-stats.vercel.app/api?username=prayagn&show_icons=true&locale=en" alt="prayagn" /></h1>
 
-<h1><img class='float-right' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prayagn&show_icons=true&locale=en&layout=compact" alt="prayagn" /></h1>
+
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayagn&" alt="prayagn" /></p>
