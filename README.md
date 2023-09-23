@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 👨‍💻 All of my projects are available at [Projects](https://prayagn.netlify.app/)
+- 👨‍💻 All of my projects are available at [Resume](https://prayagn.netlify.app/)
 
 - 📫 How to reach me **prayag.n.manojnair@gmail.com**
 
