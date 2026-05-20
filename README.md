@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently looking for a job as **Full Stack Developer**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI architecture **
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
